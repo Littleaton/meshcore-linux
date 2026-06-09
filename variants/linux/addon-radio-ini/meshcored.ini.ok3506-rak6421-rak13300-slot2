@@ -12,8 +12,6 @@ lora_cr = 8
 lora_tcxo = 1.8
 dio2_as_rf_switch = 1
 lora_tx_power = 22
-# Source Enable_Pins: 106@gpiochip3:10, 103@gpiochip3:7
-# Source TX_GAIN_LORA: [9, 9, 10, 11, 9, 8, 9, 10, 10, 10, 11, 12, 12, 12, 12, 12, 12, 12, 12, 10, 9, 8]
 
 # First-run node defaults (ignored after first boot; use CLI to change):
 advert_name = RAK6421 + RAK13300 Slot 2

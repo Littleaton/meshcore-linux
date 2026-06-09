@@ -14,9 +14,6 @@ lora_cr = 8
 lora_tcxo = 1.8
 dio2_as_rf_switch = 1
 lora_tx_power = 22
-# Source TX_GAIN_LORA: [12, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 10, 10, 9, 8, 8, 7]
-# Source USB_PID: 0x5512
-# Source USB_VID: 0x1A86
 
 # First-run node defaults (ignored after first boot; use CLI to change):
 advert_name = umesh-1262-30dbm

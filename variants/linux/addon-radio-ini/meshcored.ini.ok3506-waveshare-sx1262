@@ -12,7 +12,6 @@ lora_sf = 8
 lora_cr = 8
 dio2_as_rf_switch = 1
 lora_tx_power = 22
-# Source SX126X_ANT_SW is not modeled in meshcored.ini.
 
 # First-run node defaults (ignored after first boot; use CLI to change):
 advert_name = Waveshare SX1262
